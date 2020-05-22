@@ -1,5 +1,5 @@
 [package]
-name = "Bin2Dec"
+name = "bin_2_dec"
 version = "0.1.0"
 authors = ["r31oad3d <r31oad3d@163.com>"]
 edition = "2018"

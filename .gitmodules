@@ -1,0 +1,3 @@
+[submodule "app-ideas"]
+	path = app-ideas
+	url = git@github.com:florinpop17/app-ideas.git
